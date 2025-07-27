@@ -8,7 +8,6 @@
 
 - 🔍 Currently exploring the **world of AI & Machine Learning**
 - 🛠️ Always building, always learning  
-- 💬 Ask me about: Python, ML basics, and what it's like to live inside Jupyter Notebooks 😄
 - 🚀 Dream: To build smart systems that help people!
 
 ---
@@ -37,16 +36,9 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-11557C?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
----
-
-### ✨ Fun Fact
-
-> I don’t always overfit models,  
-> but when I do — I make sure to **regularize**. 😎
-
----
 
 ### 🔭 Current Mission
 
