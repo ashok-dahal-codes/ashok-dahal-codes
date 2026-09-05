@@ -69,15 +69,3 @@ class AshokDahal:
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-```text
-> learn_
-> build_
-> deploy_
-```
-
-</div>
